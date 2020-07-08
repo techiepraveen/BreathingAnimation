@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/0a863b30ba783ea2ea593dd117660a40/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/8bb918347f1448a7aee58e4835fca6b7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/81b48c9ef2a49d4dc4b12cc01dbc8052/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/48fd66125c838becbe13429e2b257e63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/757eb5fee4bf968f2623e678f8768c15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c1820e1da4075a4601f9d12764785dc/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/00fb64f2b311a7d937fe2c7e5f7aeb5a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/93d4aa3e14b42c04dbcb2eb145d02edf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e500882a1ae3f31059fa237da523e0e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/db69d836d3a5010f0fdb1968d68a3e4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4fd682f30b1801e8c9f94720253b7d5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/120821636b05f1da911c55ce8dbc5d8e/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5ad78a4907e5716ac01aca2f57f8c035/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c1820e1da4075a4601f9d12764785dc/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c1820e1da4075a4601f9d12764785dc/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/120821636b05f1da911c55ce8dbc5d8e/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/120821636b05f1da911c55ce8dbc5d8e/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c1820e1da4075a4601f9d12764785dc/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:17:9-37
+	android:icon
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#bednarczuk.com.gitlab.tutorial001.MainActivity
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/0a863b30ba783ea2ea593dd117660a40/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/0a863b30ba783ea2ea593dd117660a40/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/8bb918347f1448a7aee58e4835fca6b7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/8bb918347f1448a7aee58e4835fca6b7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/81b48c9ef2a49d4dc4b12cc01dbc8052/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/81b48c9ef2a49d4dc4b12cc01dbc8052/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/48fd66125c838becbe13429e2b257e63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/48fd66125c838becbe13429e2b257e63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/757eb5fee4bf968f2623e678f8768c15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/757eb5fee4bf968f2623e678f8768c15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c1820e1da4075a4601f9d12764785dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/6c1820e1da4075a4601f9d12764785dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/00fb64f2b311a7d937fe2c7e5f7aeb5a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/00fb64f2b311a7d937fe2c7e5f7aeb5a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/93d4aa3e14b42c04dbcb2eb145d02edf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/93d4aa3e14b42c04dbcb2eb145d02edf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e500882a1ae3f31059fa237da523e0e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e500882a1ae3f31059fa237da523e0e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/db69d836d3a5010f0fdb1968d68a3e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/db69d836d3a5010f0fdb1968d68a3e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4fd682f30b1801e8c9f94720253b7d5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4fd682f30b1801e8c9f94720253b7d5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/120821636b05f1da911c55ce8dbc5d8e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/120821636b05f1da911c55ce8dbc5d8e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5ad78a4907e5716ac01aca2f57f8c035/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/user/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5ad78a4907e5716ac01aca2f57f8c035/AndroidManifest.xml:20:5-44
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/android/app/src/main/AndroidManifest.xml

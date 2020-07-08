@@ -1,0 +1,4 @@
+#Sun Jul 05 22:18:25 IST 2020
+base.0=/Users/user/Downloads/Flutter-Breathing-Rotating-Button-master/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
